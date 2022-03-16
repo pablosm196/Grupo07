@@ -6,7 +6,7 @@ namespace Practica_MAP_Grupo_07
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("e");
+            Console.WriteLine("u");
         }
     }
 }
