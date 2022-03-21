@@ -1,0 +1,73 @@
+[33mcommit 11b6a49a12b3e23e937b084556c718e378b01e6f[m[33m ([m[1;36mHEAD -> [m[1;32maddColor[m[33m, [m[1;31morigin/addColor[m[33m)[m
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Mon Mar 21 11:47:07 2022 +0100
+
+    prueba
+
+[33mcommit 29d190d5a85124760add62ca67e207eae5552a9d[m
+Merge: 264a444 6a82bca
+Author: ClaudiaZarzuela <100291375+ClaudiaZarzuela@users.noreply.github.com>
+Date:   Wed Mar 16 15:52:44 2022 +0100
+
+    Merge branch 'main' of https://github.com/pablosm196/Grupo07
+
+[33mcommit 264a444d7d90ac748a49316fb7c710f882f14f24[m
+Author: ClaudiaZarzuela <100291375+ClaudiaZarzuela@users.noreply.github.com>
+Date:   Wed Mar 16 15:52:31 2022 +0100
+
+    Modificación de README
+
+[33mcommit 6a82bca1fee190598c770d59ef0da88eec9e1e77[m
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Wed Mar 16 15:52:16 2022 +0100
+
+    conflicto 3
+
+[33mcommit 546e66b8a831ba40650170dc7291f3ba61e9fb55[m
+Merge: 84d8e1e 1788cd7
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Wed Mar 16 15:50:56 2022 +0100
+
+    Errores corregidos
+
+[33mcommit 84d8e1e4049efcd288bf52a952a599a2e65b8f02[m
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Wed Mar 16 15:47:38 2022 +0100
+
+    Conflicto 3
+
+[33mcommit 1788cd707788500dff81c5216b1cff3a2a6c1e91[m
+Author: ClaudiaZarzuela <100291375+ClaudiaZarzuela@users.noreply.github.com>
+Date:   Wed Mar 16 15:41:02 2022 +0100
+
+    Conflicto 2
+
+[33mcommit fd8c88d2abad25636c6b3b57a05d3385a8579319[m
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Wed Mar 16 15:10:22 2022 +0100
+
+    Conflicto
+
+[33mcommit 2cbdfb4e58e9304f134f64471f7ee546add2cb13[m
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Mon Mar 14 12:34:49 2022 +0100
+
+    Añadido archivo readme.txt
+
+[33mcommit b594775d435dc0d35d0aa591783d52038b495491[m
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Mon Mar 14 12:13:39 2022 +0100
+
+    gitignore modificado
+
+[33mcommit a3e822bf61b510be0e1d622f621f28ebb86e7270[m
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Mon Mar 14 12:00:50 2022 +0100
+
+    Añadido archivo gitignore
+
+[33mcommit f01bedba277c041fcabd27098babc304885ce483[m
+Author: Pablo Sanchez <pablos19@ucm.es>
+Date:   Mon Mar 14 11:40:20 2022 +0100
+
+    Archivos inciales añadidos al índice del repositorio
